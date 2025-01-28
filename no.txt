@@ -1,1 +1,2 @@
-archivo no.txt de satcucdani fork
+sugiero estos cambios para el archivo no.txt del repo de satcucdani
+;)
